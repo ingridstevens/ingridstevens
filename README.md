@@ -4,23 +4,21 @@
   </a>
 </div>
 
-### Hi there, I'm Ingrid! 👋
+## Hi there, I'm Ingrid! 👋
 
-- 🔭 I’m currently working on learning Pandas, NumPy, and MatPlotLib
-- 🌱 I’m currently learning about using Hadoop and Spark on AWS
+
 
 
 ### :woman_technologist: About Me :
+
+
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from California living and working in Germany.
 
+- :telescope: I’m working as a Business Analyst / Data Scientist contributing to a startup creating an AI for market research and business insights. I'm currently working on learning Pandas, NumPy, and MatPlotLib
 
-- :telescope: I’m working as a Business Analyst / Data Scientist contributing to a startup creating an AI for market research and business insights.
+- :seedling: Exploring Hadoop and Spart on AWS in order to analyze large datasets and understand more about what Data Engineers do
 
-- :seedling: Exploring AWS in order to analyze large datasets and understand more about what Data Engineers do
-
-- :zap: In my free time, I enjoy reading books about data.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/ingridwstevens/)
+- :zap: In my free time, I enjoy playing with new datasets and reading books about data.
 
 
 ### :hammer_and_wrench: Languages and Tools :
