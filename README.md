@@ -1,5 +1,5 @@
 
-- **LinkedIn:** [Connect with me on LinkedIn](http://linkedin.com/in/ingridwstevens/)
+- **LinkedIn:** [Send me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
 - **Medium:** [Read my latest stories about LLMs on Medium](https://medium.com/@ingridwickstevens)
 
 ## Skills Snapshot 🛠️
@@ -7,6 +7,7 @@
 - **Languages:** English (Native), German (B2)
 
 ## Projects
+I'm always building something! 
 
 ### Not A Lawyer: Chat with Legal Documents with Retrieval Augmented Generation
 Chat with legal documents using OpenAI's API and Pinecone as vectorstore. This project builds a legal chatbot with knowledge about the German residency law.
