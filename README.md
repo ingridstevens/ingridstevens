@@ -20,6 +20,6 @@ Using OpenAI's Whisper API, LangChain's RecursiveCharacterTextSplitter, and Olla
 [Check out the project](https://github.com/ingridstevens/whisper-audio-transcriber/tree/main)
 
 ### Local LLM Chat
-Ever dreamed of chatting with your local language model? Here's a streamlit chat app that uses LangChain’s Ollama integration + buffer memory. Configurable to any local model, this app brings a clean interface and local LLM chats straight to your fingertips.
+Play around with your favorite open source models using Streamlit. This app uses LangChain’s Ollama integration + buffer memory. Configurable to any local model, this app brings a clean interface and local LLM chats straight to your fingertips.
 
 [Chat locally](https://github.com/ingridstevens/local-model-chat)
