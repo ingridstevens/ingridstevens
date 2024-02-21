@@ -10,13 +10,14 @@
 I'm always building something! 
 
 ### Not A Lawyer: Chat with Legal Documents with Retrieval Augmented Generation
-![Not A Lawyer Screenshot](blue-card copy.png)
+![Not A Lawyer Screenshot](blue-card.png)
 
 Chat with legal documents using OpenAI's API and Pinecone as vectorstore. This project builds a legal chatbot with knowledge about the German residency law.
 
 [Check out the project](https://github.com/ingridstevens/lawyer)
 
 ### RAG over Audio (OpenAI Whisper API)
+![Uncover Audio with Whisper](https://raw.githubusercontent.com/ingridstevens/whisper-audio-transcriber/main/images/cover.png)
 Using OpenAI's Whisper API, LangChain's RecursiveCharacterTextSplitter, and Ollama Embeddings, this notebook converts audio to text, tokenizes it, and generates embeddings. Now you can ask questions directly of your audio files.
 
 [Check out the project](https://github.com/ingridstevens/whisper-audio-transcriber/tree/main)
