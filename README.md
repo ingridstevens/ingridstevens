@@ -10,6 +10,8 @@
 I'm always building something! 
 
 ### Not A Lawyer: Chat with Legal Documents with Retrieval Augmented Generation
+![Not A Lawyer Screenshot](blue-card copy.png)
+
 Chat with legal documents using OpenAI's API and Pinecone as vectorstore. This project builds a legal chatbot with knowledge about the German residency law.
 
 [Check out the project](https://github.com/ingridstevens/lawyer)
