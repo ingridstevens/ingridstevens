@@ -1,3 +1,6 @@
+I'm interested in collaborations, feel free to reach out 😁
+
+I like projects that use LLMs to build innovative products that democratize access to information. I'm particularly drawn to industries where information is expensive or difficult to understand, and I aim to make this information clear, accessible, and understandable.
 
 - **LinkedIn:** [Send me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
 - **Medium:** [Read my latest stories about LLMs on Medium](https://medium.com/@ingridwickstevens)
