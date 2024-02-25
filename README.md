@@ -1,6 +1,8 @@
-I'm interested in collaborations, feel free to reach out 😁
+## About Me
 
-I like projects that use LLMs to build innovative products that democratize access to information. I'm particularly drawn to industries where information is expensive or difficult to understand, and I aim to make this information clear, accessible, and understandable.
+I'm passionate about collaborating on projects that harness the power of Large Language Models (LLMs) to create innovative solutions that democratize access to information. I thrive in industries where information is often expensive or complex, aiming to make it clear, accessible, and understandable for everyone.
+
+Feel free to reach out! 😁
 
 - **LinkedIn:** [Send me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
 - **Medium:** [Read my latest stories about LLMs on Medium](https://medium.com/@ingridwickstevens)
@@ -21,11 +23,14 @@ Chat with legal documents using OpenAI's API and Pinecone as vectorstore. This p
 
 ### RAG over Audio (OpenAI Whisper API)
 ![Uncover Audio with Whisper](https://raw.githubusercontent.com/ingridstevens/whisper-audio-transcriber/main/images/cover.png)
+
 Using OpenAI's Whisper API, LangChain's RecursiveCharacterTextSplitter, and Ollama Embeddings, this notebook converts audio to text, tokenizes it, and generates embeddings. Now you can ask questions directly of your audio files.
 
 [Check out the project](https://github.com/ingridstevens/whisper-audio-transcriber/tree/main)
 
 ### Local LLM Chat
+![Local Chat](https://github.com/ingridstevens/local-model-chat/raw/master/images/cover.png)
+
 Play around with your favorite open source models using Streamlit. This app uses LangChain’s Ollama integration + buffer memory. Configurable to any local model, this app brings a clean interface and local LLM chats straight to your fingertips.
 
 [Chat locally](https://github.com/ingridstevens/local-model-chat)
