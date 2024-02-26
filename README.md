@@ -1,8 +1,9 @@
 ## About Me
 
-I'm passionate about collaborating on projects that harness the power of Large Language Models (LLMs) to create innovative solutions that democratize access to information. I thrive in industries where information is often expensive or complex, aiming to make it clear, accessible, and understandable for everyone.
+My goal in learning about and working with LLMs is to create tools that facilitate easier, more affordable, faster, and more accurate access to knowledge. By empowering individuals with tools to navigate through the complexities of information, especially in areas where it is traditionally expensive or convoluted, I aim to make information clear, accessible, and understandable for all.
 
 Feel free to reach out! 😁
+
 
 - **LinkedIn:** [Send me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
 - **Medium:** [Read my latest stories about LLMs on Medium](https://medium.com/@ingridwickstevens)
