@@ -1,8 +1,8 @@
 ## About Me
 
-My goal in learning about and working with LLMs is to create tools that facilitate easier, more affordable, faster, and more accurate access to knowledge. By empowering individuals with tools to navigate through the complexities of information, especially in areas where it is traditionally expensive or convoluted, I aim to make information clear, accessible, and understandable for all.
+I'm passionate about leveraging Language Model technologies to revolutionize access to knowledge, making it more affordable, faster, and accurate. My mission is to empower individuals with tools that simplify the complexities of information, especially in traditionally convoluted domains, ensuring accessibility for all.
 
-Feel free to reach out! 😁
+Let's connect and collaborate! 😁
 
 
 - **LinkedIn:** [Send me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
@@ -12,26 +12,26 @@ Feel free to reach out! 😁
 - **Data:** Python, Pandas, NumPy, NLP, Jupyter, Git, Tableau, SQL, Streamlit, LangChain
 - **Languages:** English (Native), German (B2)
 
-## Projects
-I'm always building something! 
+## Projects Showcase
+I'm continuously working on exciting projects!
 
 ### Not A Lawyer: Chat with Legal Documents with Retrieval Augmented Generation
 ![Not A Lawyer Screenshot](blue-card.png)
 
-Chat with legal documents using OpenAI's API and Pinecone as vectorstore. This project builds a legal chatbot with knowledge about the German residency law.
+Empower legal professionals and those seeking more legal knowledge to interact with legal documents seamlessly. Leveraging OpenAI's API and Pinecone for vector storage, this project creates a legal chatbot equipped with knowledge about German residency law.
 
 [Check out the project](https://github.com/ingridstevens/lawyer)
 
 ### RAG over Audio (OpenAI Whisper API)
 ![Uncover Audio with Whisper](https://raw.githubusercontent.com/ingridstevens/whisper-audio-transcriber/main/images/cover.png)
 
-Using OpenAI's Whisper API, LangChain's RecursiveCharacterTextSplitter, and Ollama Embeddings, this notebook converts audio to text, tokenizes it, and generates embeddings. Now you can ask questions directly of your audio files.
+Enhance accessibility to audio content by converting it into text and enabling interactive querying. Utilizing OpenAI's Whisper API, LangChain's RecursiveCharacterTextSplitter, and Ollama Embeddings, this notebook facilitates seamless interaction with audio files.
 
 [Check out the project](https://github.com/ingridstevens/whisper-audio-transcriber/tree/main)
 
 ### Local LLM Chat
 ![Local Chat](https://github.com/ingridstevens/local-model-chat/raw/master/images/cover.png)
 
-Play around with your favorite open source models using Streamlit. This app uses LangChain’s Ollama integration + buffer memory. Configurable to any local model, this app brings a clean interface and local LLM chats straight to your fingertips.
+Experience the power of open-source models through an intuitive interface. With LangChain’s Ollama integration and buffer memory, this app enables hassle-free interaction with local Language Models, offering a clean and accessible platform for engaging conversations.
 
 [Chat locally](https://github.com/ingridstevens/local-model-chat)
