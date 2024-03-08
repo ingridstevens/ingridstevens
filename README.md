@@ -1,6 +1,6 @@
 ## About Me
 
-I'm passionate about leveraging Language Model technologies to revolutionize access to knowledge, making it more affordable, faster, and accurate. My mission is to empower individuals with tools that simplify the complexities of information, especially in traditionally convoluted domains, ensuring accessibility for all.
+I'm interested in using LLMs to improve access to knowledge: making access more affordable, faster, and accurate. My projects often involve developing tools that simplify the complexities of information, especially in traditionally convoluted domains, ensuring accessibility for all.
 
 Let's connect and collaborate! 😁
 
