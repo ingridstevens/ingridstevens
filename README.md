@@ -5,7 +5,7 @@ I'm passionate about leveraging Language Model technologies to revolutionize acc
 Let's connect and collaborate! 😁
 
 
-- **LinkedIn:** [Send me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
+- **LinkedIn:** [Tell me about your projects! Connect with me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
 - **Medium:** [Read my latest stories about LLMs on Medium](https://medium.com/@ingridwickstevens)
 
 ## Skills Snapshot 🛠️
