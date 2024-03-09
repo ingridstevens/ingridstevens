@@ -5,7 +5,7 @@ I'm interested in using LLMs to improve access to knowledge: making access more 
 Let's connect and collaborate! 😁
 
 
-- **LinkedIn:** [Tell me about your projects! Connect with me a message on LinkedIn](http://linkedin.com/in/ingridwstevens/)
+- **LinkedIn:** [Tell me about your projects! Reach out on LinkedIn](http://linkedin.com/in/ingridwstevens/)
 - **Medium:** [Read my latest stories about LLMs on Medium](https://medium.com/@ingridwickstevens)
 
 ## Skills Snapshot 🛠️
