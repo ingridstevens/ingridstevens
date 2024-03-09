@@ -1,5 +1,7 @@
 ## About Me
 
+
+
 I'm interested in using LLMs to improve access to knowledge: making access more affordable, faster, and accurate. My projects often involve developing tools that simplify the complexities of information, especially in traditionally convoluted domains, ensuring accessibility for all.
 
 Let's connect and collaborate! 😁
@@ -35,3 +37,6 @@ Enhance accessibility to audio content by converting it into text and enabling i
 Experience the power of open-source models through an intuitive interface. With LangChain’s Ollama integration and buffer memory, this app enables hassle-free interaction with local Language Models, offering a clean and accessible platform for engaging conversations.
 
 [Chat locally](https://github.com/ingridstevens/local-model-chat)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingridstevens&label=Profile%20views&color=0e75b6&style=flat" alt="ingridstevens" /> </p>
