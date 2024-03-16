@@ -1,7 +1,6 @@
 ## About Me
 
 
-
 I'm interested in using LLMs to improve access to knowledge: making access more affordable, faster, and accurate. My projects often involve developing tools that simplify the complexities of information, especially in traditionally convoluted domains, ensuring accessibility for all.
 
 Let's connect and collaborate! 😁
