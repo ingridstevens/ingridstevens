@@ -5,16 +5,11 @@ I'm interested in using LLMs to improve access to knowledge: making access more 
 
 Let's connect and collaborate! 😁
 
-
-- **LinkedIn:** [Tell me about your projects! Reach out on LinkedIn](http://linkedin.com/in/ingridwstevens/)
-- **Medium:** [Read my latest stories about LLMs on Medium](https://medium.com/@ingridwickstevens)
-
-## Skills Snapshot 🛠️
-- **Data:** Python, Pandas, NumPy, NLP, Jupyter, Git, Tableau, SQL, Streamlit, LangChain
-- **Languages:** English (Native), German (B2)
+- **LinkedIn:** [Tell me about your projects! Send me a message via LinkedIn](http://linkedin.com/in/ingridwstevens/)
+- **Medium:** [Read my latest Medium articles on AI](https://medium.com/@ingridwickstevens)
 
 ## Projects Showcase
-I'm continuously working on exciting projects!
+
 
 ### Not A Lawyer: Chat with Legal Documents with Retrieval Augmented Generation
 ![Not A Lawyer Screenshot](blue-card.png)
