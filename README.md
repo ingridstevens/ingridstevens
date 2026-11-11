@@ -31,6 +31,6 @@ A Mac menu bar app. Paste a YouTube link, get the song or playlist in Apple Musi
 
 ## Let's talk
 
-Open to remote roles in AI engineering and web development. I also like to hear about projects in civic tech, privacy, and AI for public good.
+I like to hear about projects in civic tech, privacy, and AI for public good.
 
 [LinkedIn](https://linkedin.com/in/ingridwstevens/) · [Medium](https://medium.com/@ingridwickstevens)
