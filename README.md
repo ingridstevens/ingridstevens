@@ -1,36 +1,44 @@
-## About Me
+## Hi, I'm Ingrid 👋
 
+I build small, private, free tools that make hard things easier: the law, public services, and everyday media.
 
-I'm interested in using LLMs to improve access to knowledge: making access more affordable, faster, and accurate. My projects often involve developing tools that simplify the complexities of information, especially in traditionally convoluted domains, ensuring accessibility for all.
+- 🤖 **AI engineer & web developer**, with a background in data science
+- 🔒 I like tools that **run on your own device**, so your data stays with you
+- 🏙️ I care about civic tech, migration, and public space
 
-Let's connect and collaborate! 😁
+---
 
-- **LinkedIn:** [Tell me about your projects! Send me a message via LinkedIn](http://linkedin.com/in/ingridwstevens/)
-- **Medium:** [Read my latest Medium articles on AI](https://medium.com/@ingridwickstevens)
+## What I'm building now
 
-## Projects Showcase
+### ⚖️ [Not A Lawyer](https://github.com/ingridstevens/lawyer)
+A Mac app that explains German residency and citizenship law **in your language**. It quotes the official law text word for word. It runs on a local model, so your questions never leave your Mac.
+`Swift` · `SwiftUI` · `RAG` · `local LLM` · `privacy`
 
+### 🎵 [Florestan](https://github.com/ingridstevens/florestan)
+A Mac menu bar app. Paste a YouTube link, get the song or playlist in Apple Music. Install it with Homebrew ([tap](https://github.com/ingridstevens/homebrew-florestan)). Public domain.
+`Swift` · `macOS` · `Homebrew`
 
-### Not A Lawyer: Chat with Legal Documents with Retrieval Augmented Generation
-![Not A Lawyer Screenshot](blue-card.png)
+### 🚲 GehWeg *(in progress)*
+A free phone app for reporting cars that block bike lanes and sidewalks through [weg.li](https://www.weg.li). No ads, no cost. It blurs people in photos before upload. I also contribute to [weg.li](https://github.com/ingridstevens/weg-li).
+`PWA` · `JavaScript` · `weg.li API`
 
-Empower legal professionals and those seeking more legal knowledge to interact with legal documents seamlessly. Leveraging OpenAI's API and Pinecone for vector storage, this project creates a legal chatbot equipped with knowledge about German residency law.
+### 🎙️ Local transcription *(in progress)*
+Transcripts with speaker labels (diarization), made with local models. Nothing goes to the cloud.
+`Whisper` · `diarization` · `local models`
 
-[Check out the project](https://github.com/ingridstevens/lawyer)
+---
 
-### RAG over Audio (OpenAI Whisper API)
-![Uncover Audio with Whisper](https://raw.githubusercontent.com/ingridstevens/whisper-audio-transcriber/main/images/cover.png)
+## Earlier work
 
-Enhance accessibility to audio content by converting it into text and enabling interactive querying. Utilizing OpenAI's Whisper API, LangChain's RecursiveCharacterTextSplitter, and Ollama Embeddings, this notebook facilitates seamless interaction with audio files.
+- 🧠 [AI-projects](https://github.com/ingridstevens/AI-projects): projects from my [Medium articles on AI](https://medium.com/@ingridwickstevens) (55⭐)
+- 🎧 [whisper-audio-transcriber](https://github.com/ingridstevens/whisper-audio-transcriber): audio to text, then chat with the transcript (RAG)
+- 💬 [local-model-chat](https://github.com/ingridstevens/local-model-chat): chat with local LLMs through Ollama
+- 🇪🇺 [EUAIAct](https://github.com/ingridstevens/EUAIAct): working with the EU AI Act text
 
-[Check out the project](https://github.com/ingridstevens/whisper-audio-transcriber/tree/main)
+---
 
-### Local LLM Chat
-![Local Chat](https://github.com/ingridstevens/local-model-chat/raw/master/images/cover.png)
+## Let's talk
 
-Experience the power of open-source models through an intuitive interface. With LangChain’s Ollama integration and buffer memory, this app enables hassle-free interaction with local Language Models, offering a clean and accessible platform for engaging conversations.
+I like to hear about projects in civic tech, privacy, and AI for public good.
 
-[Chat locally](https://github.com/ingridstevens/local-model-chat)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingridstevens&label=Profile%20views&color=0e75b6&style=flat" alt="ingridstevens" /> </p>
+[LinkedIn](https://linkedin.com/in/ingridwstevens/) · [Medium](https://medium.com/@ingridwickstevens)
