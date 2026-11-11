@@ -1,6 +1,6 @@
 ## Hi, I'm Ingrid 👋
 
-I build small, private, free tools that make hard things easier: the law, public services, and everyday media.
+AI engineer and web developer building privacy-first tools for law, public services, and everyday media.
 
 - 🤖 **AI engineer & web developer**, with a background in data science
 - 🔒 I like tools that **run on your own device**, so your data stays with you
@@ -18,14 +18,6 @@ A Mac app that explains German residency and citizenship law **in your language*
 A Mac menu bar app. Paste a YouTube link, get the song or playlist in Apple Music. Install it with Homebrew ([tap](https://github.com/ingridstevens/homebrew-florestan)). Public domain.
 `Swift` · `macOS` · `Homebrew`
 
-### 🚲 GehWeg *(in progress)*
-A free phone app for reporting cars that block bike lanes and sidewalks through [weg.li](https://www.weg.li). No ads, no cost. It blurs people in photos before upload. I also contribute to [weg.li](https://github.com/ingridstevens/weg-li).
-`PWA` · `JavaScript` · `weg.li API`
-
-### 🎙️ Local transcription *(in progress)*
-Transcripts with speaker labels (diarization), made with local models. Nothing goes to the cloud.
-`Whisper` · `diarization` · `local models`
-
 ---
 
 ## Earlier work
@@ -39,6 +31,6 @@ Transcripts with speaker labels (diarization), made with local models. Nothing g
 
 ## Let's talk
 
-I like to hear about projects in civic tech, privacy, and AI for public good.
+Open to remote roles in AI engineering and web development. I also like to hear about projects in civic tech, privacy, and AI for public good.
 
 [LinkedIn](https://linkedin.com/in/ingridwstevens/) · [Medium](https://medium.com/@ingridwickstevens)
